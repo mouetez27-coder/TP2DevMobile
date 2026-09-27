@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CalculIMC</string>
+    <string name="titre_imc">Calcul de l\'IMC</string>
+
+    <string name="poids_hint">Poids en kg</string>
+    <string name="taille_hint">Taille en m</string>
+
+    <string name="bouton_calculer">Calculer</string>
+    <string name="bouton_effacer">Effacer</string>
+
+    <string name="imc_initial">IMC : -</string>
+    <string name="categorie_initiale">Catégorie : -</string>
+
+</resources>
